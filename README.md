@@ -1,4 +1,4 @@
-# Discord Weather App #
+# Nike Canada Bot #
 
 ### Arthur Xu ###
 ### March 23rd ###
